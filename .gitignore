@@ -1,0 +1,4 @@
+node_modules
+.env
+application_layer.pem
+user-data.sh
